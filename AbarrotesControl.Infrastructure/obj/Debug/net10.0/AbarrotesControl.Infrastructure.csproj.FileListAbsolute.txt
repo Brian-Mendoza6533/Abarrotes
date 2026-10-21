@@ -1,0 +1,17 @@
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\bin\Debug\net10.0\AbarrotesControl.Infrastructure.deps.json
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\bin\Debug\net10.0\AbarrotesControl.Infrastructure.runtimeconfig.json
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\bin\Debug\net10.0\AbarrotesControl.Infrastructure.dll
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\bin\Debug\net10.0\AbarrotesControl.Infrastructure.pdb
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\bin\Debug\net10.0\AbarrotesControl.Core.dll
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\bin\Debug\net10.0\AbarrotesControl.Core.pdb
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\obj\Debug\net10.0\AbarrotesControl.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\obj\Debug\net10.0\AbarrotesControl.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\obj\Debug\net10.0\AbarrotesControl.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\obj\Debug\net10.0\AbarrotesControl.Infrastructure.AssemblyInfo.cs
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\obj\Debug\net10.0\AbarrotesControl.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\obj\Debug\net10.0\Abarrote.02B3E07B.Up2Date
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\obj\Debug\net10.0\AbarrotesControl.Infrastructure.dll
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\obj\Debug\net10.0\refint\AbarrotesControl.Infrastructure.dll
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\obj\Debug\net10.0\AbarrotesControl.Infrastructure.pdb
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\obj\Debug\net10.0\AbarrotesControl.Infrastructure.genruntimeconfig.cache
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Infrastructure\obj\Debug\net10.0\ref\AbarrotesControl.Infrastructure.dll

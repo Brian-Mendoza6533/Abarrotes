@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "AbarrotesControl.Api.Controllers.EntradasController",
+    "Method": "RegistrarEntrada",
+    "RelativePath": "api/entradas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AbarrotesControl.Core.DTOs.EntradaMercaderiaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AbarrotesControl.Api.Controllers.ProductosController",
+    "Method": "GetProductos",
+    "RelativePath": "api/productos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AbarrotesControl.Api.Controllers.ProductosController",
+    "Method": "RegistrarProducto",
+    "RelativePath": "api/productos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AbarrotesControl.Core.DTOs.ProductoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

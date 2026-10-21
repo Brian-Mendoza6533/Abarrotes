@@ -1,0 +1,13 @@
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Core\bin\Debug\net10.0\AbarrotesControl.Core.deps.json
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Core\bin\Debug\net10.0\AbarrotesControl.Core.dll
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Core\bin\Debug\net10.0\AbarrotesControl.Core.pdb
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Core\obj\Debug\net10.0\AbarrotesControl.Core.csproj.AssemblyReference.cache
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Core\obj\Debug\net10.0\AbarrotesControl.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Core\obj\Debug\net10.0\AbarrotesControl.Core.AssemblyInfoInputs.cache
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Core\obj\Debug\net10.0\AbarrotesControl.Core.AssemblyInfo.cs
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Core\obj\Debug\net10.0\AbarrotesControl.Core.csproj.CoreCompileInputs.cache
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Core\obj\Debug\net10.0\AbarrotesControl.Core.dll
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Core\obj\Debug\net10.0\refint\AbarrotesControl.Core.dll
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Core\obj\Debug\net10.0\AbarrotesControl.Core.pdb
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Core\obj\Debug\net10.0\ref\AbarrotesControl.Core.dll
+C:\Users\BRIAN MENDOZA\Desktop\Abarrotes\AbarrotesControl.Core\obj\Debug\net10.0\Abarrote.2CDDF69B.Up2Date

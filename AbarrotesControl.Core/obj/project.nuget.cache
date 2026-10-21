@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pcrSY0IjNTw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\AbarrotesControl.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRIAN MENDOZA\\.nuget\\packages\\fluentvalidation\\12.2.0\\fluentvalidation.12.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

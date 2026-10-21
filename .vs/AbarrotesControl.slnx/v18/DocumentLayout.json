@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Migrations\\20261020045031_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbarrotesControl.Infrastructure\\Migrations\\20261020045031_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A62112-A865-F403-73CD-5742B8A089D4}|AbarrotesControl.Api\\AbarrotesControl.Api.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3A62112-A865-F403-73CD-5742B8A089D4}|AbarrotesControl.Api\\AbarrotesControl.Api.csproj|solutionrelative:abarrotescontrol.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A62112-A865-F403-73CD-5742B8A089D4}|AbarrotesControl.Api\\AbarrotesControl.Api.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A62112-A865-F403-73CD-5742B8A089D4}|AbarrotesControl.Api\\AbarrotesControl.Api.csproj|solutionrelative:abarrotescontrol.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.infrastructure\\data\\abarrotescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|solutionrelative:abarrotescontrol.infrastructure\\data\\abarrotescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7D9C81-E2D3-DF84-30C1-89F91C74ED75}|AbarrotesControl.Services\\AbarrotesControl.Services.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.services\\validators\\productodtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7D9C81-E2D3-DF84-30C1-89F91C74ED75}|AbarrotesControl.Services\\AbarrotesControl.Services.csproj|solutionrelative:abarrotescontrol.services\\validators\\productodtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7D9C81-E2D3-DF84-30C1-89F91C74ED75}|AbarrotesControl.Services\\AbarrotesControl.Services.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.services\\abarrotescontrol.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C7D9C81-E2D3-DF84-30C1-89F91C74ED75}|AbarrotesControl.Services\\AbarrotesControl.Services.csproj|solutionrelative:abarrotescontrol.services\\abarrotescontrol.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.infrastructure\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|solutionrelative:abarrotescontrol.infrastructure\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.infrastructure\\repositories\\entradarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|solutionrelative:abarrotescontrol.infrastructure\\repositories\\entradarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.infrastructure\\mappings\\productoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|solutionrelative:abarrotescontrol.infrastructure\\mappings\\productoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.infrastructure\\data\\configurations\\productoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|solutionrelative:abarrotescontrol.infrastructure\\data\\configurations\\productoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.infrastructure\\data\\configurations\\entradamercaderiaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|solutionrelative:abarrotescontrol.infrastructure\\data\\configurations\\entradamercaderiaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.infrastructure\\data\\configurations\\detalleentradaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8020C908-9FE1-E1E2-5F34-C7C64FA74057}|AbarrotesControl.Infrastructure\\AbarrotesControl.Infrastructure.csproj|solutionrelative:abarrotescontrol.infrastructure\\data\\configurations\\detalleentradaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A62112-A865-F403-73CD-5742B8A089D4}|AbarrotesControl.Api\\AbarrotesControl.Api.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A62112-A865-F403-73CD-5742B8A089D4}|AbarrotesControl.Api\\AbarrotesControl.Api.csproj|solutionrelative:abarrotescontrol.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A62112-A865-F403-73CD-5742B8A089D4}|AbarrotesControl.Api\\AbarrotesControl.Api.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.api\\controllers\\entradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A62112-A865-F403-73CD-5742B8A089D4}|AbarrotesControl.Api\\AbarrotesControl.Api.csproj|solutionrelative:abarrotescontrol.api\\controllers\\entradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.core\\dtos\\detalleentradadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|solutionrelative:abarrotescontrol.core\\dtos\\detalleentradadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.core\\dtos\\entradamercaderiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|solutionrelative:abarrotescontrol.core\\dtos\\entradamercaderiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.core\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|solutionrelative:abarrotescontrol.core\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.core\\interfaces\\ientradarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|solutionrelative:abarrotescontrol.core\\interfaces\\ientradarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.core\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|solutionrelative:abarrotescontrol.core\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.core\\entities\\detalleentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|solutionrelative:abarrotescontrol.core\\entities\\detalleentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.core\\entities\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|solutionrelative:abarrotescontrol.core\\entities\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.core\\entities\\entradamercaderia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|solutionrelative:abarrotescontrol.core\\entities\\entradamercaderia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.core\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|solutionrelative:abarrotescontrol.core\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.core\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|solutionrelative:abarrotescontrol.core\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|c:\\users\\brian mendoza\\desktop\\abarrotes\\abarrotescontrol.core\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C3C50-B08C-EF01-F90F-51A983FEA553}|AbarrotesControl.Core\\AbarrotesControl.Core.csproj|solutionrelative:abarrotescontrol.core\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261020045031_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Migrations\\20261020045031_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Infrastructure\\Migrations\\20261020045031_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Migrations\\20261020045031_InitialCreate.cs",
+              "RelativeToolTip": "AbarrotesControl.Infrastructure\\Migrations\\20261020045031_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T04:50:31.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbarrotesContext.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Data\\AbarrotesContext.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Infrastructure\\Data\\AbarrotesContext.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Data\\AbarrotesContext.cs",
+              "RelativeToolTip": "AbarrotesControl.Infrastructure\\Data\\AbarrotesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:47:24.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Api\\Program.cs",
+              "RelativeToolTip": "AbarrotesControl.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:35:20.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "AbarrotesControl.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Api\\appsettings.json",
+              "RelativeToolTip": "AbarrotesControl.Api\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-20T03:24:33.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Services\\Validators\\ProductoDtoValidator.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Services\\Validators\\ProductoDtoValidator.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Services\\Validators\\ProductoDtoValidator.cs",
+              "RelativeToolTip": "AbarrotesControl.Services\\Validators\\ProductoDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T03:45:34.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbarrotesControl.Services",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Services\\AbarrotesControl.Services.csproj",
+              "RelativeDocumentMoniker": "AbarrotesControl.Services\\AbarrotesControl.Services.csproj",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Services\\AbarrotesControl.Services.csproj",
+              "RelativeToolTip": "AbarrotesControl.Services\\AbarrotesControl.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-20T03:43:32.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Infrastructure\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "AbarrotesControl.Infrastructure\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:47:42.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntradaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Repositories\\EntradaRepository.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Infrastructure\\Repositories\\EntradaRepository.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Repositories\\EntradaRepository.cs",
+              "RelativeToolTip": "AbarrotesControl.Infrastructure\\Repositories\\EntradaRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:47:56.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Mappings\\ProductoProfile.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Infrastructure\\Mappings\\ProductoProfile.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Mappings\\ProductoProfile.cs",
+              "RelativeToolTip": "AbarrotesControl.Infrastructure\\Mappings\\ProductoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T03:42:59.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Data\\Configurations\\ProductoConfiguration.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Infrastructure\\Data\\Configurations\\ProductoConfiguration.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Data\\Configurations\\ProductoConfiguration.cs",
+              "RelativeToolTip": "AbarrotesControl.Infrastructure\\Data\\Configurations\\ProductoConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T03:39:11.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntradaMercaderiaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Data\\Configurations\\EntradaMercaderiaConfiguration.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Infrastructure\\Data\\Configurations\\EntradaMercaderiaConfiguration.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Data\\Configurations\\EntradaMercaderiaConfiguration.cs",
+              "RelativeToolTip": "AbarrotesControl.Infrastructure\\Data\\Configurations\\EntradaMercaderiaConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T03:40:00.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetalleEntradaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Data\\Configurations\\DetalleEntradaConfiguration.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Infrastructure\\Data\\Configurations\\DetalleEntradaConfiguration.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Infrastructure\\Data\\Configurations\\DetalleEntradaConfiguration.cs",
+              "RelativeToolTip": "AbarrotesControl.Infrastructure\\Data\\Configurations\\DetalleEntradaConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T03:40:22.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Api\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Api\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Api\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "AbarrotesControl.Api\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA0wDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:55:07.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EntradasController.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Api\\Controllers\\EntradasController.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Api\\Controllers\\EntradasController.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Api\\Controllers\\EntradasController.cs",
+              "RelativeToolTip": "AbarrotesControl.Api\\Controllers\\EntradasController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:55:30.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EntradaMercaderiaDto.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\DTOs\\EntradaMercaderiaDto.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Core\\DTOs\\EntradaMercaderiaDto.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\DTOs\\EntradaMercaderiaDto.cs",
+              "RelativeToolTip": "AbarrotesControl.Core\\DTOs\\EntradaMercaderiaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:44:49.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetalleEntradaDto.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\DTOs\\DetalleEntradaDto.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Core\\DTOs\\DetalleEntradaDto.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\DTOs\\DetalleEntradaDto.cs",
+              "RelativeToolTip": "AbarrotesControl.Core\\DTOs\\DetalleEntradaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T03:21:17.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\DTOs\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Core\\DTOs\\ProductoDto.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\DTOs\\ProductoDto.cs",
+              "RelativeToolTip": "AbarrotesControl.Core\\DTOs\\ProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:44:36.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEntradaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Interfaces\\IEntradaRepository.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Core\\Interfaces\\IEntradaRepository.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Interfaces\\IEntradaRepository.cs",
+              "RelativeToolTip": "AbarrotesControl.Core\\Interfaces\\IEntradaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:45:37.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Interfaces\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Core\\Interfaces\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Interfaces\\IProductoRepository.cs",
+              "RelativeToolTip": "AbarrotesControl.Core\\Interfaces\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:45:22.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetalleEntrada.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Entities\\DetalleEntrada.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Core\\Entities\\DetalleEntrada.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Entities\\DetalleEntrada.cs",
+              "RelativeToolTip": "AbarrotesControl.Core\\Entities\\DetalleEntrada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:44:17.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Entities\\Proveedor.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Core\\Entities\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Entities\\Proveedor.cs",
+              "RelativeToolTip": "AbarrotesControl.Core\\Entities\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T03:18:43.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Core\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Entities\\Usuario.cs",
+              "RelativeToolTip": "AbarrotesControl.Core\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T03:17:36.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Core\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Entities\\Categoria.cs",
+              "RelativeToolTip": "AbarrotesControl.Core\\Entities\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T03:17:06.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EntradaMercaderia.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Entities\\EntradaMercaderia.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Core\\Entities\\EntradaMercaderia.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Entities\\EntradaMercaderia.cs",
+              "RelativeToolTip": "AbarrotesControl.Core\\Entities\\EntradaMercaderia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:44:02.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "AbarrotesControl.Core\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\BRIAN MENDOZA\\Desktop\\Abarrotes\\AbarrotesControl.Core\\Entities\\Producto.cs",
+              "RelativeToolTip": "AbarrotesControl.Core\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T02:43:33.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
